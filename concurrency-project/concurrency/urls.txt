@@ -1,0 +1,3 @@
+https://www.w3.org/TR/2003/REC-PNG-20031110/iso_8859-1.txt
+https://txt2html.sourceforge.net/sample.txt
+https://example-files.online-convert.com/document/txt/example.txt
